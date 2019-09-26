@@ -40,6 +40,33 @@ body {
   left: 16px;
 }
 
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  color: white;
+  font-family: Roboto,sans-serif;
+}
+
+/* Top right text */
+.top-right-under {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  color: white;
+  font-family: Roboto,sans-serif;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: -20px;
+  left: 16px;
+  font-family: sans-serif;
+  opacity: 0.5;
+}
+
 /* The dots/bullets/indicators */
 .dot {
   height: 8px;

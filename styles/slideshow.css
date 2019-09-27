@@ -32,6 +32,44 @@ body {
   width: 100%;
   text-align: center;
 }
+/* Top left center text */
+.top-left-center {
+  position: absolute;
+  top: 120px;
+  left: 16px;
+  color: white;
+  font-family: Roboto;
+}
+
+/* Top left center text */
+.top-left-center2 {
+  position: absolute;
+  top: 140px;
+  left: 16px;
+  color: white;
+  font-family: Roboto;
+}
+
+/* Top left center text */
+.top-left-center3 {
+  position: absolute;
+  top: 170px;
+  left: 16px;
+  font-family: Roboto;
+  opacity: 0.5;
+  color: white;
+}
+
+/* Top left center text */
+.top-left-center4 {
+  position: absolute;
+  top: 190px;
+  left: 16px;
+  font-family: Roboto;
+  opacity: 0.5;
+  color: white;
+}
+
 
 /* Top left text */
 .top-left {

@@ -3,7 +3,7 @@ body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 body {
-	background: linear-gradient(to bottom, #433282 110%, red 50%);
+	background: linear-gradient(to bottom, #433282 100%, red 50%);
 }
 .topbody-container {
   margin-top: -45px;
@@ -11,6 +11,14 @@ body {
   margin-right: -45px;
   max-width: 2000px;
   background-color: #433282;
+}
+
+.bottom-body-container {
+  margin-left: -45px;
+  margin-right: -45px;
+  max-width: 7000px;
+  background-color: #534e78;
+  color: #534e78;
 }
 
 /* Slideshow container */
@@ -130,7 +138,7 @@ body {
 /* Bottom left text */
 .bottom-left {
   position: absolute;
-  bottom: -20px;
+  bottom: -1px;
   left: 16px;
   font-family: sans-serif;
   opacity: 0.5;
